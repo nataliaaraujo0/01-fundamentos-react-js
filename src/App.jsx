@@ -1,5 +1,7 @@
+import { Post } from "./Post";
+
 function App() {
-  return <h1>ola mundo</h1>;
+  return <Post />;
 }
 
 export default App;
